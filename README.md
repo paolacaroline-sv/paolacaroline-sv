@@ -6,8 +6,7 @@
 <div align="center">
   
 [![Email](https://img.shields.io/badge/EMail-000?style=for-the-badge)](mailto:paolacaroline_sv@hotmail.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge)](https://www.linkedin.com/in/paolacaroline-sv/)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-f1c232?style=for-the-badge)](https://web.dio.me/users/paolacaroline_sv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-f1c232?style=for-the-badge)](https://www.linkedin.com/in/paolacaroline-sv/)
 </div>
 
 
