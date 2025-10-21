@@ -15,10 +15,6 @@
 
 Oi, eu sou Paola! Sou estudante de desenvolvimento de sistemas, com foco em programação, mas também curiosa e aberta a explorar outras áreas da tecnologia. Até o momento, tive contato com HTML, CSS, JavaScript, React, Node.js, bancos de dados SQL, .NET e Java. Tenho publicado meus projetos aqui no GitHub regularmente, utilizando a plataforma também como ferramenta de estudo.
 
-Antes de ingressar na área de programação, atuei como atleta profissional de eSports, conquistando o 3º lugar no campeonato mundial de Valorant (VCT Game Changers 2022). Essa trajetória contribuiu para o meu crescimento profissional, ao vivenciar o mundo competitivo no _“modo de jogo: **hard**”_, e também para o meu desenvolvimento pessoal, por meio da convivência com pessoas de diferentes origens e culturas.
-
-Estou ansiosa por uma oportunidade de voltar a fazer parte de um time e continuar evoluindo profissionalmente!
-
 ### Tecnologias
 
 
